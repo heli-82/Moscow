@@ -1,0 +1,6 @@
+pandas == 2.2.3
+plotly == 6.1.2
+dash == 3.0.4 
+statistics == 1.0.3.5 
+selenium == 4.33.0
+bs4 == 0.0.2
